@@ -1,4 +1,4 @@
-# Patient-Medication-Appointment-App
+# Patient-Medication-Appointment-website
 To upload Patient Medication Appointment Application using Spring Boot, Thymeleaf and Junit Testing.
 
 ![Doctor Deatils](https://github.com/user-attachments/assets/84ee4627-2ed2-48be-a02f-5c6d6062f6e4)
